@@ -2,6 +2,9 @@
 
 using namespace std;
 
+// Calculate the average of 3 values
+
+
 void CalcAvg(int [3]);
 
 int main(){
